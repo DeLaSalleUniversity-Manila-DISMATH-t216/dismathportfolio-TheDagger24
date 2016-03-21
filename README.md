@@ -22,3 +22,13 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 -Mathematical induction was introduced to us this week. 
 -Mathematical induction seems familiar because I`ve heard this one before in Engalg2.
 -Counter example is needed in order to prove that a statement is wrong.
+
+#Week5
+-Program algorithms were introduced to us.
+-I find it hard because I really suck when it comes to programming. 
+-Sets were introduced to us too and I got the idea quickly.
+
+#Week6
+-Review of quantifiers was done.
+-One to one function is a function that has a "unique" value.
+-
