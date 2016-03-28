@@ -27,8 +27,36 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 -Program algorithms were introduced to us.
 -I find it hard because I really suck when it comes to programming. 
 -Sets were introduced to us too and I got the idea quickly.
+-Venn diagram was used to teach sets.
+
 
 #Week6
 -Review of quantifiers was done.
+-There are three types of functions namely : One-to-one, Onto , and Bijection.
 -One to one function is a function that has a "unique" value.
--
+-Onto is a kind of function wherein the domain and the codomain are the same. Also,
+-Bijection is a function that is both a one-to-one and onto function.
+
+#Week7
+-Searching algorithms were introduced to us.
+-Linear and Binary search.
+-Iteration table can be used in order to test a linear search.
+-Binary search is done by dividing the data into two parts over and over again until it satisfies the condition.
+-Pseudocode was also introduced.
+-It is like LBYEC71 but is written in a piece of paper instead of using the computer.
+-A dance involving algorithm was shown to us by Sir Melvin.
+
+
+#Week8
+- A new algorithm was introduced to us and it is for sorting.
+- Bubble Sort Algorithm 
+-   1. Successively comparing adjacent elements.
+-   2. Interchange elements if they are in wrong order.
+-   3. Repeat until there are elements.
+-   Post Condition: It should be in increasing order.
+- Insertion Sort Pseudocode was also discussed.
+- Greedy Algorithm selects best choice at each step.
+
+#Week9
+- Growth of functions
+
