@@ -75,4 +75,4 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - Euler Path and Circuit was introduced.
 - Euler path - all edges must be used and it has a different starting and finishing point.
 - Euler circuit - All adges must be used and Vo=V, meaning the starting and end point are just the same.
-- 
+
