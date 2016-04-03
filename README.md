@@ -37,6 +37,7 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - Onto is a kind of function wherein the domain and the codomain are the same. Also,
 - Bijection is a function that is both a one-to-one and onto function.
 
+
 #Week7
 - Searching algorithms were introduced to us.
 - Linear and Binary search.
@@ -59,4 +60,19 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 
 #Week9
 - Growth of functions
+- Big Theta is the lower and upper bound of a function. It should be both Big O and Big Omega.
+- Big O is the upper bound of a function. C is the constant and K is the intersection.
+- Big omega is the lower bound of the function.
+- Time complexity
 
+#Week10
+- No classes.
+
+#Week11
+- There were only 2 classes for quiz 3.
+- For the 1st class. The Handshaking Theorem was introduced.
+- Handshaking Theorem can be found by: 2e = Σdegrees (vertices)
+- Euler Path and Circuit was introduced.
+- Euler path - all edges must be used and it has a different starting and finishing point.
+- Euler circuit - All adges must be used and Vo=V, meaning the starting and end point are just the same.
+- 
