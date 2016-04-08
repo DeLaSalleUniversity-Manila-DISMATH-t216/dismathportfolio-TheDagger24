@@ -220,7 +220,14 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
   - internal vertices with children
   - leaves - without children
  - m-ary tree - has (n-1) number of edges.
- - Automata theory- studies the laws of computation
- - Finite automation - provides the simples model of computing device.
- - Alan Turing - "Father of cs"
-
+- Automata theory- studies the laws of computation
+- Finite automation - provides the simples model of computing device.
+- Alan Turing - "Father of cs"
+- Finite-State Machine {S,I,O,f,g,So}
+- where: 
+ - S = State
+ - I = finite input(domain)
+ - O = finite output(codomain)
+ - f = function transition
+ - g = output function
+ - So = initial state
