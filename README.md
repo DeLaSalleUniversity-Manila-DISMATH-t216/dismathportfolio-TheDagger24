@@ -22,6 +22,36 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
    - Exclusive Or (⊕, xor)
    - Conditional (→, if,then)
    - Biconditional (↔, iff)
+- ➤ Logical Equivalence
+   -  Identity Law
+      p ∧ T ≡ p
+      p ∧ F ≡ p
+   - Domination Law
+      p v T ≡ T  
+      p ∧ F ≡ F 
+   - Idempotent Law
+      p v p ≡ p 
+      p ∧ p ≡ p 
+   -Double Negation Law
+      ¬(¬p)≡ p 
+    -Commutative Law
+      p v q ≡ q v p
+      p ∧ q ≡ q ∧ p 
+    -Associative Law
+      (p v q) v r ≡ p v (q v r) 
+      (p ∧ q) ∧ r ≡ p ∧ (q ∧ r)
+    -Distributive Law
+      p v (q v r) ≡ (p v q) v (p v r)
+      p ∧ (q ∧ r) ≡ (p ∧ q) ∧ (p ∧ r) 
+    -De Morgan's Law
+    ¬(p ∧ q) ≡ ¬p ∧ ¬q
+    ¬(p v q) ≡ ¬p v ¬q 
+    - Absorption Law
+     p v (p ∧ q) ≡ p 
+     p ∧ (p v q)≡ p 
+    -Negation Law
+     p v ¬p ≡ T
+     p ∧ ¬p ≡ F 
 - A lot of hard problems were encountered this week.
 
 #Week3
