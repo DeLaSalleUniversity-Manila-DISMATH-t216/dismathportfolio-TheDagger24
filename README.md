@@ -2,6 +2,8 @@
 dismathportfolio-TheDagger24 created by Classroom for GitHub
 
 #Week1
+- Introduction to Dismath. It was cool at first.
+- Thinking critically is mandatory for the course in order to pass it by the end of the term.
 - Truth tables were introduced to us. It is an important tool for the course itself.
 - I also learned that we don`t need calculator in the subject unlike our other subjects.
 - The "Knights and Knaves" problem was discussed.
@@ -10,7 +12,16 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 
 #Week2
 - Quantifiers and tautology.
+- For the first part of the course, we`ll learn about proposition, logical connectives, logical deduction and premises.
+- 1 = true and 0 = false.
 - Logical equivalences (De Morgans, Idempotent, Double Negation)
+-> Logical Connectives
+- Negation (¬, not)
+- Conjunction (∧, and)
+- Disjunction (∨, or)
+- Exclusive Or (⊕, xor)
+- Conditional (→, if,then)
+- Biconditional (↔, iff)
 - A lot of hard problems were encountered this week.
 
 #Week3
