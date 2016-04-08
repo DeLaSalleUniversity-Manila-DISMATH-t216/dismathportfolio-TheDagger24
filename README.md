@@ -61,6 +61,17 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - On this week, we tackled proofs for our lesson.
 - Method of proofs are hard and confusing.
 - There are many proofs that we need to understand.
+- 4 Methods of Proof are : 
+  - Direct
+  - Contraposition
+  - Contradiction
+  - Trivial Proof
+- ➤Direct Proof
+  - First, we assume P is true.
+  - Then, we show that q is also true.
+- ➤Contrapostion Proof
+  - 
+
 
 #Week4
 - Mathematical induction was introduced to us this week. 
