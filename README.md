@@ -105,28 +105,48 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 
 #Week6
 - Review of quantifiers was done.
-   ∀x∀y(x≠y) 
-   ∃x∃y(x≠y)
-   ∀x∃y(x≠y)
-   ∃y∀x(x≠y) 
+   - ∀x∀y(x≠y) 
+   - ∃x∃y(x≠y)
+   - ∀x∃y(x≠y)
+   - ∃y∀x(x≠y) 
 - There are three types of functions namely : One-to-one, Onto , and Bijection.
 - One to one function is a function that has a "unique" value.
 - Onto is a kind of function wherein the domain and the codomain are the same. Also,
 - Bijection is a function that is both a one-to-one and onto function.
 
-
 #Week7
-- Searching algorithms were introduced to us.
-- Linear and Binary search.
-- Iteration table can be used in order to test a linear search.
-- Binary search is done by dividing the data into two parts over and over again until it satisfies the condition.
+-NO CLASSES.
+
+#Week8
+- Algorithms were introduced.
+- I find it hard because I`m not really good at programming and I actually hate programming.
 - Pseudocode was also introduced.
 - It is like LBYEC71 but is written in a piece of paper instead of using the computer.
 - A dance involving algorithm was shown to us by Sir Melvin.
 
 
-#Week8
-- A new algorithm was introduced to us and it is for sorting.
+#Week9
+- Searching algorithms were introduced to us.
+- Linear and Binary search.
+- Iteration table can be used in order to test a linear search.
+- Binary search is done by dividing the data into two parts over and over again until it satisfies the condition.
+- Binary Search sample:
+ -Given:{A1,A2,...,Ai,...An}
+  Result: location of x (loc)
+    while [(i≠j) ≠ (i>j)]
+    mid = (i+j)/2
+     if x>A(mid)
+    {
+      then i = 1+mid
+      else j=mid
+    }
+     if (x==Ai)
+
+       loc=i
+         else 
+         loc = -1;
+
+#Week10
 - Bubble Sort Algorithm 
 -   1. Successively comparing adjacent elements.
 -   2. Interchange elements if they are in wrong order.
@@ -135,7 +155,7 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - Insertion Sort Pseudocode was also discussed.
 - Greedy Algorithm selects best choice at each step.
 
-#Week9
+#Week10
 - Growth of functions
 - Big Theta is the lower and upper bound of a function. It should be both Big O and Big Omega.
 - Big O is the upper bound of a function. C is the constant and K is the intersection.
