@@ -131,7 +131,7 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - Iteration table can be used in order to test a linear search.
 - Binary search is done by dividing the data into two parts over and over again until it satisfies the condition.
 - Binary Search sample:
- -Given:{A1,A2,...,Ai,...An}
+ - Given:{A1,A2,...,Ai,...An}
   Result: location of x (loc)
     while [(i≠j) ≠ (i>j)]
     mid = (i+j)/2
