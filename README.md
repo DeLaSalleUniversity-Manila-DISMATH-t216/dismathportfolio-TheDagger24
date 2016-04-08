@@ -191,11 +191,36 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 
 #Week13
 - There were only 2 classes for quiz 3.
-- For the 1st class. The Handshaking Theorem was introduced.
-- Handshaking Theorem can be found by: 2e = Σdegrees (vertices)
+- For the 1st class. The Handshaking Theorem and Graph Theory were introduced.
+- Graph Theory consists of nodes(vertices) and edges(degrees)
+- Handshaking Theorem can be found by: 2e = Σdegrees*(vertices)
 - Euler Path and Circuit was introduced.
-- Euler path - all edges must be used and it has a different starting and finishing point.
-- Euler circuit - All adges must be used and Vo=V, meaning the starting and end point are just the same.
+- Euler Path - All edges must be used and it has a different starting and finishing point.
+- Euler Circuit - All adges must be used and Vo=V, meaning the starting and end point are just the same.
+- Hamilton path 
+ - It is based on nodes rather than the edges when it comes to Euler.
+ - All nodes must be covered but doesn`t necessarily have to pass through all edges.
+- Hamilton Circuit
+ - Starting node must also be the end node. going through a node greater that 1 time is not allowed.
+- Matrix
+ - Adjacency Matrix is more on relationship between nodes.
+ - Incidence matrix is more on relationship between edges.
+- Planar, a graph that has no intersecting edges.
+- Non-Planar, a graph that has intersecting edges. (Eg. K3,3)
 
 #Week14
+- Graph Coloring was discussed.
+ - In graph coloring, no two assignment of colors to each node is the same if they are adjacent to one another.
+ - Four Color Theorem
+  - Chromatic number - least number of colors.
+  - Any planar graph has chromatic number of no greater than four.
+- Trees (eg is binary search)
+ - connected undirected graph with no simple circuit.
+ - Rooted Tree
+  - internal vertices with children
+  - leaves - without children
+ - m-ary tree - has (n-1) number of edges.
+ - Automata theory- studies the laws of computation
+ - Finite automation - provides the simples model of computing device.
+ - Alan Turing - "Father of cs"
 
