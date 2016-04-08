@@ -152,6 +152,13 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 -   2. Interchange elements if they are in wrong order.
 -   3. Repeat until there are elements.
 -   Post Condition: It should be in increasing order.
+-   Bubble Sort Code
+   - Given: (a1,a2,a3,an) 
+   - Result: (x1,x2,x3,xn) ; x1<x2<x3<xn
+   - for j: 1 to n-i -> list
+   - for i: 1 to n-i
+   - if (ai>ai+1)
+   - swap(ai,ai+1)
 - Insertion Sort Pseudocode was also discussed.
 - Greedy Algorithm selects best choice at each step.
 
@@ -162,14 +169,16 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - Big omega is the lower bound of the function.
 - Time complexity
 
-#Week10
+#Week12
 - No classes.
 
-#Week11
+#Week13
 - There were only 2 classes for quiz 3.
 - For the 1st class. The Handshaking Theorem was introduced.
 - Handshaking Theorem can be found by: 2e = Σdegrees (vertices)
 - Euler Path and Circuit was introduced.
 - Euler path - all edges must be used and it has a different starting and finishing point.
 - Euler circuit - All adges must be used and Vo=V, meaning the starting and end point are just the same.
+
+#Week14
 
