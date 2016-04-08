@@ -70,12 +70,22 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
   - First, we assume P is true.
   - Then, we show that q is also true.
 - ➤Contrapostion Proof
-  - 
-
+  - Assume that ¬q is true.
+  - Show that ¬q=true.
+- ➤Contradiction Proof
+  - Assume that ¬p=T
+  - Show that ¬p=T ends up with contradiction
+- ➤Trivial Proof
+  -  q is true, it follows that p→q must also be true.
 
 #Week4
-- Mathematical induction was introduced to us this week. 
-- Mathematical induction seems familiar because I`ve heard this one before in Engalg2.
+- Proof by equivalence was introduced along with Mathematical Induction.
+- As I stated before,  p→q = ¬p∨q.
+- Mathematical induction seems familiar because I`ve heard this one before in Engalg2. 
+- Mathematical Induction Steps:
+ - 1. Show P(1) is T.
+ - 2. Show P(k) is T.
+ - 3. Show P(k) -> P(k+1).
 - Counter example is needed in order to prove that a statement is wrong.
 
 #Week5
