@@ -137,14 +137,14 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
    - mid = (i+j)/2
     - if x>A(mid)
     - {
-      - then i = 1+mid
-      - else j=mid
+       then i = 1+mid
+       else j=mid
     - }
     - if (x==Ai)
 
-      - loc=i
-       -  else 
-        - loc = -1;
+       loc=i
+       else 
+       loc = -1;
 
 #Week10
 - Bubble Sort Algorithm 
