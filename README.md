@@ -53,6 +53,9 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
       - p v ¬p ≡ T
       - p ∧ ¬p ≡ F 
 - A lot of hard problems were encountered this week.
+- Implication Equivalence was also discussed.
+   - p→q = ¬p∨q 
+- The "Superman" problem was given as a homework. At the end, we were able to prove that he doesn`t exist.
 
 #Week3
 - On this week, we tackled proofs for our lesson.
