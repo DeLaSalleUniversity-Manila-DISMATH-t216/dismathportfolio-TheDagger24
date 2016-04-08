@@ -89,6 +89,14 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - Counter example is needed in order to prove that a statement is wrong.
 
 #Week5
+- ➤ Program Correctness
+
+    •Includes 2 steps:
+        1.) Partial correctness
+         - initial assertion
+         - final assertion 
+        2.) Show that the program terminates correctly
+  
 - Program algorithms were introduced to us.
 - I find it hard because I really suck when it comes to programming. 
 - Sets were introduced to us too and I got the idea quickly.
@@ -97,6 +105,10 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 
 #Week6
 - Review of quantifiers was done.
+   ∀x∀y(x≠y) 
+   ∃x∃y(x≠y)
+   ∀x∃y(x≠y)
+   ∃y∀x(x≠y) 
 - There are three types of functions namely : One-to-one, Onto , and Bijection.
 - One to one function is a function that has a "unique" value.
 - Onto is a kind of function wherein the domain and the codomain are the same. Also,
