@@ -143,8 +143,8 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
     - if (x==Ai)
 
        loc=i
-       else 
-       loc = -1;
+        else 
+        loc = -1;
 
 #Week10
 - Bubble Sort Algorithm 
