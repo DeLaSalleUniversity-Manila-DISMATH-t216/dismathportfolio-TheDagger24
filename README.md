@@ -160,7 +160,24 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
    - if (ai>ai+1)
    - swap(ai,ai+1)
 - Insertion Sort Pseudocode was also discussed.
+- Insertion Sort Code is:
+ - Given:(ai,a2,a3,an) real numbers with n>=2
+ - for j=2 to n
+ - {
+  - i=1
+  - while aj>ai
+   - i=i+1 
+  - m=aj
+  - for k=0 to j-i-1
+  - a(j-k)=a(j-k-1)
+  - ai=m
 - Greedy Algorithm selects best choice at each step.
+  - Eg. Change
+  - for i=1 to r
+  - di=0
+  - while n>Ci
+  - n=n-Ci
+  - di=di+1
 
 #Week11
 - Growth of functions
