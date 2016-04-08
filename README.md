@@ -15,7 +15,7 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - For the first part of the course, we`ll learn about proposition, logical connectives, logical deduction and premises.
 - 1 = true and 0 = false.
 - Logical equivalences (De Morgans, Idempotent, Double Negation)
-  -> Logical Connectives
+-> Logical Connectives
 - Negation (¬, not)
 - Conjunction (∧, and)
 - Disjunction (∨, or)
