@@ -132,19 +132,19 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - Binary search is done by dividing the data into two parts over and over again until it satisfies the condition.
 - Binary Search sample:
  - Given:{A1,A2,...,Ai,...An}
-  Result: location of x (loc)
-    while [(i≠j) ≠ (i>j)]
-    mid = (i+j)/2
-     if x>A(mid)
-    {
-      then i = 1+mid
-      else j=mid
-    }
-     if (x==Ai)
+ - Result: location of x (loc)
+   - while [(i≠j) ≠ (i>j)]
+   - mid = (i+j)/2
+    - if x>A(mid)
+    - {
+      - then i = 1+mid
+      - else j=mid
+    - }
+    - if (x==Ai)
 
-       loc=i
-         else 
-         loc = -1;
+      - loc=i
+       -  else 
+        - loc = -1;
 
 #Week10
 - Bubble Sort Algorithm 
@@ -155,7 +155,7 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - Insertion Sort Pseudocode was also discussed.
 - Greedy Algorithm selects best choice at each step.
 
-#Week10
+#Week11
 - Growth of functions
 - Big Theta is the lower and upper bound of a function. It should be both Big O and Big Omega.
 - Big O is the upper bound of a function. C is the constant and K is the intersection.
