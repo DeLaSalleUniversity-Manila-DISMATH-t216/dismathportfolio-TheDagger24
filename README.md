@@ -15,13 +15,13 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - For the first part of the course, we`ll learn about proposition, logical connectives, logical deduction and premises.
 - 1 = true and 0 = false.
 - Logical equivalences (De Morgans, Idempotent, Double Negation)
-➤ Logical Connectives
-- Negation (¬, not)
-- Conjunction (∧, and)
-- Disjunction (∨, or)
-- Exclusive Or (⊕, xor)
-- Conditional (→, if,then)
-- Biconditional (↔, iff)
+- ➤ Logical Connectives
+   - Negation (¬, not)
+   - Conjunction (∧, and)
+   - Disjunction (∨, or)
+   - Exclusive Or (⊕, xor)
+   - Conditional (→, if,then)
+   - Biconditional (↔, iff)
 - A lot of hard problems were encountered this week.
 
 #Week3
