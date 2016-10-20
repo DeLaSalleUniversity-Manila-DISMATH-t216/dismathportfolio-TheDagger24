@@ -6,8 +6,7 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - Thinking critically is mandatory for the course in order to pass it by the end of the term.
 - Truth tables were introduced to us. It is an important tool for the course itself.
 - I also learned that we don`t need calculator in the subject unlike our other subjects.
-- The "Knights and Knaves" problem was discussed.
-- It`s different from other math subjects. 
+- It`s different from other math subjects because it involves logic operations. 
 - The variables that we usually use are p and q.
 
 #Week2
@@ -16,6 +15,7 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - 1 = true and 0 = false.
 - Logical equivalences (De Morgans, Idempotent, Double Negation)
 - ➤ Logical Connectives
+   - Parenthesis
    - Negation (¬, not)
    - Conjunction (∧, and)
    - Disjunction (∨, or)
@@ -55,7 +55,6 @@ dismathportfolio-TheDagger24 created by Classroom for GitHub
 - A lot of hard problems were encountered this week.
 - Implication Equivalence was also discussed.
    - p→q = ¬p∨q 
-- The "Superman" problem was given as a homework. At the end, we were able to prove that he doesn`t exist.
 
 #Week3
 - On this week, we tackled proofs for our lesson.
